@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -e
+
+perl /usr/share/enum4linux/enum4linux.pl "$@"

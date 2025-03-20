@@ -1,0 +1,8 @@
+AUTHORS usr/share/enum4linux/
+CHANGELOG usr/share/enum4linux/
+COPYING.ENUM4LINUX usr/share/enum4linux/ 
+COPYING.GPL usr/share/enum4linux/
+debian/helper-script/enum4linux usr/bin/
+enum4linux.pl usr/share/enum4linux/
+README.md usr/share/enum4linux/
+share-list.txt usr/share/enum4linux/

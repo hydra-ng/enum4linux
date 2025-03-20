@@ -1,0 +1,25 @@
+Source: enum4linux
+Section: utils
+Priority: optional
+Maintainer: joe <joe@rstrike.my.id>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 4.6.2
+Homepage: https://github.com/CiscoCXSecurity/enum4linux
+Vcs-Browser: https://gitlab.com/blacktracksec/packages/enum4linux
+Vcs-Git: https://gitlab.com/blacktracksec/packages/enum4linux.git
+
+Package: enum4linux
+Architecture: any
+Depends:
+ perl,
+ smbclient,
+ dnsutils,
+ polenum,
+ ldap-utils,
+ ${shlibs:Depends},
+ ${misc:Depends},
+Description:  enum4Linux is a Linux alternative to enum.exe 
+	for enumerating data from Windows and Samba hosts Resources
+

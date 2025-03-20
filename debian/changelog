@@ -1,0 +1,5 @@
+enum4linux (0.9.1-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- joe <joe@localhost.localdomain>  Fri, 01 Nov 2024 14:17:14 -0400

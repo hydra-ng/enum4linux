@@ -1,0 +1,17 @@
+9d697c0e45d519232a3ffa3dd9cf5036  ./COPYING.ENUM4LINUX
+c81ab97b374f654347caa1851d2d0751  ./README.md
+06734c8ccee45624869625a6e7c0dbc2  ./enum4linux.pl
+ceacb7052b20fb05b7473514ac17a8fe  ./AUTHORS
+1bd78fb273c26eb34db0741c4dfc0870  ./debian/changelog
+a3c66d7fdf05ee112ebefaa14b9154ec  ./debian/copyright
+c9f43b7b625b8742f90d6da6d98f76b8  ./debian/helper-script/enum4linux
+d3a10140af54ec7371d3b9b084b07c14  ./debian/source/format
+9b3234c3f0925978518063c2683cbe9e  ./debian/rules
+db267744f78568916142f7be6a5c599f  ./debian/postinst
+dfa131592c43bff19870ee9de42e5804  ./debian/control
+9247c0c3dec24a3a52022c00bf61d7e5  ./debian/install
+a81f2725f526de9a024bcf0e361cc111  ./debian/upstream/metadata.ex
+c85b35a9b96d4070437a54d0e97abd4a  ./CHANGELOG
+f53062b9cf80bd9b22468006739baee1  ./share-list.txt
+751419260aa954499f7abaabaa882bbe  ./COPYING.GPL
+c407cb3733762c2e7bb7fc322f202635  ./md5sum.txt
