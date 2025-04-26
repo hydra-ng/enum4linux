@@ -2,4 +2,4 @@
 
 set -e
 
-perl /usr/share/enum4linux/enum4linux.pl "$@"
+perl /usr/local/Library/Applications/enum4linux/enum4linux.pl "$@"
