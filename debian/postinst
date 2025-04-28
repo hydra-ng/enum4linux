@@ -2,4 +2,4 @@
 
 set -e
 
-chmod +x /usr/bin/enum4linux
+chmod 775 /usr/local/Library/bin/enum4linux
